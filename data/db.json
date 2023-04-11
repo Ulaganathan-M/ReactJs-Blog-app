@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "New Year",
+      "datetime": "March 03, 2023 4:30:37 PM",
+      "body": "Happy New Year 2023"
+    }
+  ]
+}
